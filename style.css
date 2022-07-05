@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.totalAmountDisplay {
+    height: 100px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: bisque;
+    color: brown;
+}
+
+.box {
+    display: flex;
+    justify-content: space-around;
+}
+
+.box1 {
+    height: 100px;
+    width: 200px;
+    margin: 50px;
+    padding: 50px;
+    background-color: rgb(98, 186, 240);
+    color: rgb(12, 12, 55);
+}
+
+.box2 {
+    height: 100px;
+    width: 200px;
+    margin: 50px;
+    padding: 50px;
+    background-color: rgb(115, 188, 155);
+    color: rgb(55, 12, 45);
+}
+
+button {
+    margin: 62px;
+    height: 25px;
+    width: 74px;
+    background-color: rgb(18, 17, 63);
+    color: aliceblue;
+    border: none;
+}
+
+input {
+    margin: -4px;
+    width: 194px;
+    height: 17px;
+    padding: 6px;
+}
